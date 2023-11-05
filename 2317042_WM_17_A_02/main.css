@@ -1,0 +1,55 @@
+.head{
+    margin-top: 100px;
+
+}
+
+.def{
+    border-style: double;
+    border-width: 15px; 
+    padding: 20px;
+    margin-top: 20px;
+}
+.SF{
+    margin-right: 500px;
+    margin-bottom: 500px;
+}
+.title{
+    background:url(9.jpg) ;
+    
+  
+}
+.def{
+    background:url(10.jpg) ;
+    font-family: 'Courier New', Courier, monospace;
+}
+table, th, td {
+  border:2px solid black;
+  width: 500px;
+  height: 50px;
+  background-color: aliceblue;
+}
+.p1 {
+  transition-duration: 0.4s;
+  margin-right: 50px;
+  height: 150px;
+  width: 150px;
+  font-size: 20px;
+  border-radius: 50%;
+  background-color: red;
+
+}
+.p2 {
+  transition-duration: 0.4s;
+  margin-right: 50px;
+  height: 150px;
+  width: 150px;
+  font-size: 20px;
+  border-radius: 50%;
+  background-color:blue;
+
+}
+
+button:hover {
+  background-color: green; /* Green */
+  color: white;
+}
